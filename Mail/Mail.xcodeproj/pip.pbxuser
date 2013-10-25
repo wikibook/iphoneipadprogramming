@@ -1,0 +1,221 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MailAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {520, 604}}";
+			sepNavSelRange = "{111, 0}";
+			sepNavVisRange = "{0, 475}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MailAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 604}}";
+			sepNavSelRange = "{111, 0}";
+			sepNavVisRange = "{0, 633}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Mail */ = {
+		activeExec = 0;
+		executables = (
+			3271B9EE12CF19D1007CEC37 /* Mail */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3271B9EE12CF19D1007CEC37 /* Mail */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Mail */;
+		codeSenseManager = 3271B9FD12CF19D3007CEC37 /* Code sense */;
+		executables = (
+			3271B9EE12CF19D1007CEC37 /* Mail */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					342,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					302,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315597157;
+			PBXWorkspaceStateSaveDate = 315597157;
+		};
+		perUserProjectItems = {
+			3201716D12CFA16A00BF34E7 /* PBXTextBookmark */ = 3201716D12CFA16A00BF34E7 /* PBXTextBookmark */;
+			32D98DD512CF8DA400E66F69 /* PBXBookmark */ = 32D98DD512CF8DA400E66F69 /* PBXBookmark */;
+			32D98DD612CF8DA400E66F69 /* PBXTextBookmark */ = 32D98DD612CF8DA400E66F69 /* PBXTextBookmark */;
+			32D98DD712CF8DA400E66F69 /* PBXTextBookmark */ = 32D98DD712CF8DA400E66F69 /* PBXTextBookmark */;
+			32D98DD912CF8DA400E66F69 /* PBXTextBookmark */ = 32D98DD912CF8DA400E66F69 /* PBXTextBookmark */;
+			32D98E8712CF937500E66F69 /* PBXTextBookmark */ = 32D98E8712CF937500E66F69 /* PBXTextBookmark */;
+			32D98EA312CF93A200E66F69 /* PBXTextBookmark */ = 32D98EA312CF93A200E66F69 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3271B9FC12CF19D3007CEC37 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {520, 594}}";
+			sepNavSelRange = "{42, 0}";
+			sepNavVisRange = "{0, 334}";
+		};
+	};
+	3201716D12CFA16A00BF34E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 5";
+		rLen = 0;
+		rLoc = 42;
+		rType = 0;
+		vrLen = 334;
+		vrLoc = 0;
+	};
+	3271B9EE12CF19D1007CEC37 /* Mail */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Mail;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3271B9FC12CF19D3007CEC37 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3271B9FD12CF19D3007CEC37 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	32D98DD512CF8DA400E66F69 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 66D9C5C8117E69C40081575C /* myImage.png */;
+	};
+	32D98DD612CF8DA400E66F69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MailAppDelegate.h */;
+		name = "MailAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 475;
+		vrLoc = 0;
+	};
+	32D98DD712CF8DA400E66F69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MailAppDelegate.m */;
+		name = "MailAppDelegate.m: 6";
+		rLen = 0;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 633;
+		vrLoc = 0;
+	};
+	32D98DD912CF8DA400E66F69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661A78A7117C2328003E19ED /* MainViewController.m */;
+		name = "MainViewController.m: 6";
+		rLen = 0;
+		rLoc = 118;
+		rType = 0;
+		vrLen = 1051;
+		vrLoc = 0;
+	};
+	32D98E8712CF937500E66F69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661A78A6117C2328003E19ED /* MainViewController.h */;
+		name = "MainViewController.h: 6";
+		rLen = 0;
+		rLoc = 114;
+		rType = 0;
+		vrLen = 750;
+		vrLoc = 0;
+	};
+	32D98EA312CF93A200E66F69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 5";
+		rLen = 0;
+		rLoc = 42;
+		rType = 0;
+		vrLen = 334;
+		vrLoc = 0;
+	};
+	661A78A6117C2328003E19ED /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {628, 600}}";
+			sepNavSelRange = "{114, 0}";
+			sepNavVisRange = "{0, 750}";
+		};
+	};
+	661A78A7117C2328003E19ED /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 1354}}";
+			sepNavSelRange = "{118, 0}";
+			sepNavVisRange = "{0, 1051}";
+		};
+	};
+}

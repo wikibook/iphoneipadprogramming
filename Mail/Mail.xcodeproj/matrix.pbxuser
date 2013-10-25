@@ -1,0 +1,212 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MailAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {659, 535}}";
+			sepNavSelRange = "{253, 0}";
+			sepNavVisRange = "{0, 494}";
+			sepNavWindowFrame = "{{946, 144}, {891, 698}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MailAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 556}}";
+			sepNavSelRange = "{643, 0}";
+			sepNavVisRange = "{0, 717}";
+			sepNavWindowFrame = "{{775, 374}, {504, 684}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Mail */ = {
+		activeExec = 0;
+		executables = (
+			661A7896117C22BE003E19ED /* Mail */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 661A7896117C22BE003E19ED /* Mail */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Mail */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Mail */,
+		);
+		codeSenseManager = 661A78A5117C22F6003E19ED /* Code sense */;
+		executables = (
+			661A7896117C22BE003E19ED /* Mail */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					481,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 293525069;
+			PBXWorkspaceStateSaveDate = 293525069;
+		};
+		perUserProjectItems = {
+			661A7B1A117D764B003E19ED /* PBXTextBookmark */ = 661A7B1A117D764B003E19ED /* PBXTextBookmark */;
+			66D9C63A117E96F30081575C /* PBXBookmark */ = 66D9C63A117E96F30081575C /* PBXBookmark */;
+			66D9C63B117E96F30081575C /* PBXTextBookmark */ = 66D9C63B117E96F30081575C /* PBXTextBookmark */;
+			66DEF7B8117ED71500C6BACE /* PBXBookmark */ = 66DEF7B8117ED71500C6BACE /* PBXBookmark */;
+			66DEF7CC117F171C00C6BACE /* PBXTextBookmark */ = 66DEF7CC117F171C00C6BACE /* PBXTextBookmark */;
+			66DEF7CD117F171C00C6BACE /* PBXTextBookmark */ = 66DEF7CD117F171C00C6BACE /* PBXTextBookmark */;
+			66DEF7CE117F171C00C6BACE /* PBXTextBookmark */ = 66DEF7CE117F171C00C6BACE /* PBXTextBookmark */;
+			66DEF7D1117F171C00C6BACE /* PBXTextBookmark */ = 66DEF7D1117F171C00C6BACE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 661A78A4117C22F6003E19ED /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	661A7896117C22BE003E19ED /* Mail */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Mail;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	661A78A4117C22F6003E19ED /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	661A78A5117C22F6003E19ED /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	661A78A6117C2328003E19ED /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {659, 535}}";
+			sepNavSelRange = "{401, 0}";
+			sepNavVisRange = "{0, 769}";
+			sepNavWindowFrame = "{{1413, 313}, {504, 684}}";
+		};
+	};
+	661A78A7117C2328003E19ED /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1006, 1382}}";
+			sepNavSelRange = "{187, 0}";
+			sepNavVisRange = "{0, 1006}";
+			sepNavWindowFrame = "{{586, 237}, {891, 698}}";
+		};
+	};
+	661A7B1A117D764B003E19ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MailAppDelegate.m */;
+		name = "MailAppDelegate.m: 28";
+		rLen = 83;
+		rLoc = 626;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	66D9C63A117E96F30081575C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 66D9C5C8117E69C40081575C /* myImage.png */;
+	};
+	66D9C63B117E96F30081575C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661A78A7117C2328003E19ED /* MainViewController.m */;
+		name = "MainViewController.m: 23";
+		rLen = 0;
+		rLoc = 467;
+		rType = 0;
+		vrLen = 696;
+		vrLoc = 0;
+	};
+	66DEF7B8117ED71500C6BACE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MailAppDelegate.m */;
+	};
+	66DEF7CC117F171C00C6BACE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MailAppDelegate.h */;
+		name = "MailAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 253;
+		rType = 0;
+		vrLen = 494;
+		vrLoc = 0;
+	};
+	66DEF7CD117F171C00C6BACE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661A78A6117C2328003E19ED /* MainViewController.h */;
+		name = "MainViewController.h: 20";
+		rLen = 0;
+		rLoc = 401;
+		rType = 0;
+		vrLen = 769;
+		vrLoc = 0;
+	};
+	66DEF7CE117F171C00C6BACE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 661A78A7117C2328003E19ED /* MainViewController.m */;
+		name = "MainViewController.m: 11";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 1006;
+		vrLoc = 0;
+	};
+	66DEF7D1117F171C00C6BACE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MailAppDelegate.m */;
+		name = "MailAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 643;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	8D1107310486CEB800E47090 /* Mail-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{382, 156}, {891, 698}}";
+		};
+	};
+}
